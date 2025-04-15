@@ -18,7 +18,7 @@ The framework automates Airbnb search and reservation flows, including validatio
     python -m venv venv
 
 ### Step 2: Activate the virtual environment
-        .\venv\Scripts\activate
+    .\venv\Scripts\activate
 
 ### Step 3: Install dependencies
     pip install -r requirements.txt
